@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefaniaSgreva
 - 🎓 I'm attending the Boolean Careers course: Full Stack Web Developer
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning PHP
 - 👀 I'm interested in mixed different digital art techniques into new art fields
 - 📫 How to reach me: <a>stefaniasgreva@gmail.com</a>
 
