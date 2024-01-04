@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefaniaSgreva
 - 💼 I work as Front End Developer and UI Designer at @SabLab
-- 🌱 I’m currently learning Livewire
+- 🌱 I’m currently learning Three.js
 - 👀 I'm interested in mixed different digital art techniques into new art fields
 - 📫 How to reach me: <a>stefaniasgreva@gmail.com</a>
 
