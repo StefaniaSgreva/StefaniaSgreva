@@ -1,3 +1,8 @@
+<!---
+StefaniaSgreva/StefaniaSgreva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StefaniaSgreva.StefaniaSgreva" />
 
 <h1 align="center">
@@ -56,10 +61,13 @@
   
   <img width=430 src="https://streak-stats.demolab.com?user=StefaniaSgreva&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
   <!--- <img src="https://github-readme-stats.vercel.app/api?username=StefaniaSgreva&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> --->
-  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefaniaSgreva&theme=tokyonight&hide_border=true&hide=html&layout=compact" alt="GitHub Top Languages" />
+  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefaniaSgreva&theme=tokyonight&hide_border=true&hide=html&exclude_repo=github-readme-stats,StefaniaSgreva.github.io&layout=compact" alt="GitHub Top Languages" />
 
 </div>
-<!---
-StefaniaSgreva/StefaniaSgreva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=25&color=F8C3CD&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+stopping+by!✌️;+Feel+free+to+connect+on+LinkedIn;+I'm+always+open+to+collab+🙂" alt="Typing SVG"/>
+</h3>
+
