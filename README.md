@@ -1,11 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StefaniaSgreva.StefaniaSgreva" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefania+Sgreva;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&color=F8C3CD&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Stefania+Sgreva;" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">Passionate Designer & Creative Developer based in Italy</h3>
+<h2 align="center">Designer & Creative Developer based in Italy</h2> 
 
 <br/>
 
