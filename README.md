@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   
   💼 Currently employed as a Designer and Front End Developer at <a href="https://www.sablab.it/" target="_blank">@SabLab</a>
 
-  🌱 Improving and deepening my skills in **React Native, Typescript, Three.js**
+  🌱 Improving and deepening my skills in **React Native and Three.js**
 
   ✨​​ I love combining graphic design, illustration, 3D elements, and more to create websites tailored 100% to clients' needs
 
