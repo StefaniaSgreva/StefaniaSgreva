@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-  💼 Currently employed as a Designer and Front End Developer at <a href="https://www.sablab.it/" target="_blank">@SabLab</a>
+  💼 Designer and Creative Developer 
 
   🌱 Improving and deepening my skills in **React Native** and **Three.js**
 
