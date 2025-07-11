@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&color=F8C3CD&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Stefania+Sgreva;" alt="Typing SVG"/>
 </h1>
 
-<h2 align="center">Designer & Creative Developer based in Italy</h2> 
+<h2 align="center">Full Stack Developer & Designer based in Italy</h2> 
 
 <br/>
 
 <div align="center">
   
-  💼 Full Stack  Developer & Designer
+  💼 Full Stack Developer & Designer
 
   🌱 Improving and deepening my skills in **Three.js**
 
