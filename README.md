@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-  💼 Designer and Creative Developer 
+  💼 Full Stack  Developer & Designer
 
-  🌱 Improving and deepening my skills in **React Native** and **Three.js**
+  🌱 Improving and deepening my skills in **Three.js**
 
   ✨​​ I love combining graphic design, illustration, 3D elements, and more to create websites tailored 100% to clients' needs
 
