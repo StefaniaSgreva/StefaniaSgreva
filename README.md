@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vite"/><br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,threejs,tailwind,bootstrap"/><br/>
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode,postman.figma"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode,postman,figma"/>
   </a>
   
 </div>
