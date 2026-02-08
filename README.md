@@ -12,7 +12,7 @@
   
   ✨ **Artist by nature, Dev by choice.** Merging 12 years of **3D Mastery** with modern **Full Stack Logic** (React, Vue, Node.js, PHP).
   
-  🛠️ Next-Gen Workflow: Leveraging AI to accelerate boilerplate and focus on high-level architecture and creative polish.
+  🛠️ Next-Gen Workflow: leveraging AI to accelerate boilerplate and focus on high-level architecture and creative polish.
   
   🌱 Deepening my passion for **Three.js** to build immersive web experiences.
 
@@ -35,9 +35,12 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vite"/><br/>
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vite"/><br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,threejs,tailwind,bootstrap"/><br/>
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode,figma,blender"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode,figma,blender"/> -->
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vite,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,vue,threejs,figma,blender" /><br/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode" />
   </a>
 </div>
 
