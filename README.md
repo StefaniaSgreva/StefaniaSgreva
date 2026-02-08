@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&color=F8C3CD&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Stefania+Sgreva;" alt="Typing SVG"/>
 </h1>
 
-<h2 align="center">Full Stack Developer | Frontend & 3D Specialist</h2> 
+<h2 align="center">Full Stack Developer | 3D Specialist</h2> 
 
 <br/>
 
 <div align="center">
   
-  ✨ **Artist by nature, Dev by choice.** Merging 12 years of **3D Mastery** with modern **Full Stack Logic** (React, Vue, PHP).
+  ✨ **Artist by nature, Dev by choice.** Merging 12 years of **3D Mastery** with modern **Full Stack Logic** (React, Vue, Node.js, PHP).
   
-  🤖 **AI-Augmented Workflow**: Crafting high-quality code with Cursor and LLMs.
+  🛠️ Next-Gen Workflow: Leveraging AI to accelerate boilerplate and focus on high-level architecture and creative polish.
   
   🌱 Deepening my passion for **Three.js** to build immersive web experiences.
 
