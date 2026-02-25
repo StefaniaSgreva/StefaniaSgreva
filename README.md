@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode,figma,blender"/> -->
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vite,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=react,vue,threejs,figma,blender" /><br/>
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,docker,git,vscode" />
   </a>
 </div>
 
