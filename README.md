@@ -54,7 +54,7 @@ My workflow is a fusion of creativity and logic: from pixel-perfect UI to robust
 
 ---
 
-<h2 align="center">🤖 Currently Building With AI</h2>
+<!-- <h2 align="center">🤖 Currently Building With AI</h2>
 
 <br/>
 
@@ -66,7 +66,7 @@ My workflow is a fusion of creativity and logic: from pixel-perfect UI to robust
 
 </div>
 
----
+--- -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
